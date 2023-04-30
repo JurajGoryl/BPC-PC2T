@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author juraj
- *
- */
-module SemestralnyProjekt {
-}
